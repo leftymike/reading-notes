@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# The Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/leftymike/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A growth mindset is one that is focused on openness and development. It is one that embraces learning even if it is tough because it knows the end result will be worth it. A growth mindset sees inspiration in others success rather than feeling threatened. A growth mindset allows one to accept criticism as an opportunity to learn rather than an insult or attack.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Here are a few reminders to help you stay in a growth mindset:**
 
-### Markdown
+- *Avoid the avoidance*, stay focused when you are challenged
+- *Take a break* when you are struggling to reassess and return when you're inspired
+- *No pain, No gain*, put in the work and you will get the rewards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![This is an image](https://mk0flowerglossarlngi.kinstacdn.com/wp-content/uploads/2019/12/lotus-flower-on-water.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leftymike/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks for stopping by. My name is [Mike Felts](https://github.com/leftymike) and I am sure you will benefit from having a growth mindset.
