@@ -1,6 +1,6 @@
 # The Growth Mindset
 
-A growth mindset is one that is focused on openness and development. It is one that embraces learning even if it is tough because it knows the end result will be worth it. A growth mindset sees inspiration in others success rather than feeling threatened. A growth mindset allows one to accept criticism as an opportunity to learn rather than an insult or attack.
+A Growth Mindset is one that is focused on openness and development. It is one that embraces learning even if it is tough because it knows the end result will be worth it. A growth mindset sees inspiration in others success rather than feeling threatened. A growth mindset allows one to accept criticism as an opportunity to learn rather than an insult or attack.
 
 **Here are a few reminders to help you stay in a growth mindset:**
 
