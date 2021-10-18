@@ -16,3 +16,7 @@ Javascript Data Type variables can hold numbers and text values. Text values are
 <h2> Declaring (Creating) Javascript Variables </h2>
 You declare with "var". To assign a value to the variable use the = sign. You can also assign a value to the variable when you declare it. You can also assign a value with the variable when you declare it. You can declare many variables in on statement. 
 
+<h1>How Computers Work </h1>
+Computers do 4 basic things with information. The take Input information, Store the information, Process the information, and give an Output of that information. They use the binary number and text system. 
+
+
